@@ -34,7 +34,7 @@ Data set has 651 randomly sampled movies produced before 2016 from [IMDB](http:/
 11. ``dvd_rel_month``: Month the movie is released on DVD
 12. ``dvd_rel_day`` : Day of the month the movie is released on DVD
 13. ``imdb_rating``: Rating on IMDB
-14. `imdb_num_votes``: Number of votes on IMDB
+14. ``imdb_num_votes``: Number of votes on IMDB
 15. ``critics_rating``: Categorical variable for critics rating on Rotten Tomatoes (Certified Fresh, Fresh, Rotten)
 16. ``critics_score``: Critics score on Rotten Tomatoes
 17. ``audience_rating``: Categorical variable for audience rating on Rotten Tomatoes (Spilled, Upright)
@@ -49,7 +49,14 @@ Data set has 651 randomly sampled movies produced before 2016 from [IMDB](http:/
 26. ``actor1``: First main actor/actress in the abridged cast of the movie
 27. ``actor2``: Second main actor/actress in the abridged cast of the movie
 28. ``actor3``: Third main actor/actress in the abridged cast of the movie
-29. ``actor4`: Fourth main actor/actress in the abridged cast of the movie
+29. ``actor4``: Fourth main actor/actress in the abridged cast of the movie
 30. ``actor5``: Fifth main actor/actress in the abridged cast of the movie
 31. ``imdb_url``: Link to IMDB page for the movie
 32. ``rt_url``: Link to Rotten Tomatoes page for the movie
+
+
+
+### Summary of the reuslts:
+
+
+Please refer to the file in the 
