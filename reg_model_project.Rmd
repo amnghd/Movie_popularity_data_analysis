@@ -3,8 +3,9 @@
 title: "Modeling and prediction for movies"
 author: "Amin Ghaderi"
 date: "February 15, 2018"
-output: 
-  html_document: 
+output:
+  pdf_document: default
+  html_document:
     fig_height: 4
     highlight: pygments
     theme: spacelab
